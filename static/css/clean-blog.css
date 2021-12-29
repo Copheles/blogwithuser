@@ -152,6 +152,10 @@ img::-moz-selection {
 .commentText p {
     margin:0;
 }
+
+#cmt{
+    font-size: 15px;
+}
 .sub-text {
     color:#aaa;
     font-family:verdana;
